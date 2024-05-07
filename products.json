@@ -1,0 +1,20 @@
+[
+    {
+        "product_index": 1,
+        "product_name": "1",
+        "price": 1.0,
+        "manufacturer": "1",
+        "remarks": [
+            "1"
+        ]
+    },
+    {
+        "product_index": 5,
+        "product_name": "5",
+        "price": 5.0,
+        "manufacturer": "5",
+        "remarks": [
+            "5"
+        ]
+    }
+]
